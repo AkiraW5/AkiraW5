@@ -7,7 +7,7 @@
   <img align="center" alt="Akira-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Akira-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Akira-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="Akira-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/433291642582335488/d8631adcd96609946e6f00423a3207d0.png?size=1024">
+  <img align="right" alt="Akira-pic" height="150" style="border-radius:50px;" 
   
 </div>
   
