@@ -7,7 +7,8 @@
   <img align="center" alt="Akira-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Akira-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Akira-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="Akira-pic" height="150" style="border-radius:50px;" 
+  <img align="right" alt="Akira-pic" height="150" style="border-radius:50px;" src=![image](https://user-images.githubusercontent.com/47050435/150665295-c619874d-9e63-4e13-8c9e-b26d82fc155f.png)
+ 
   
 </div>
   
