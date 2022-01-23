@@ -1,4 +1,4 @@
-## Olá, eu sou o Akira, atualmente estou trabalhando em projetos pessoais!
+## Don't adventures ever have an end? I suppose not. Someone else always has to carry on the story.
 <div align="center">
   <a href="https://github.com/AkiraW5">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkiraW5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
