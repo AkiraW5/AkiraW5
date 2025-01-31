@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello There! 🖖 I'm Akira, co-founder of Kitten Team and developer of LTB! Currently, Let's code! 💻
+Hello There! 🖖 I'm Akira, a developer passionate about AI and software development. Currently, exploring intelligent systems and building cool projects. Let's code! 💻
 
 
 ## 🌐 Socials:
